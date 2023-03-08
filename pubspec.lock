@@ -123,6 +123,14 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "1.8.2"
+  radio_player:
+    dependency: "direct main"
+    description:
+      name: radio_player
+      sha256: c7c4f7e004274d46fa5176c4d6e7615782561dec0bc2b91f9772c8e1370710f3
+      url: "https://pub.dev"
+    source: hosted
+    version: "1.2.1"
   sky_engine:
     dependency: transitive
     description: flutter
@@ -186,3 +194,4 @@ packages:
     version: "2.1.4"
 sdks:
   dart: ">=2.19.3 <3.0.0"
+  flutter: ">=1.20.0"
