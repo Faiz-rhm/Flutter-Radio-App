@@ -1,0 +1,57 @@
+[
+    {
+        "number": "ALT 98.0",
+        "name": "Classic Rock",
+        "streamURL": "http://stream-uk1.radioparadise.com",
+        "imageURL": "https://cdn-images.audioaddict.com/e/8/b/6/f/5/e8b6f5258a60a9a11495ecbc1d1bc881.png?size=300x300",
+        "desc": "Classic Rock Hits",
+        "location" : "Alternative, New York",
+        "listener" : "50 Listener",
+        "isPlay": false,
+        "longDesc": "Classic rock is a radio format which developed from the album-oriented rock (AOR) format in the early 1980s. In the United States, the classic rock format features music ranging generally from the late 1960s to the late 1980s, primarily focusing on commercially successful hard rock popularized in the 1970s. The radio format became increasingly popular with the baby boomer demographic by the end of the 1990s."
+    },
+    {
+        "number": "ALT 98.0",
+        "name": "Radio 1190",
+        "streamURL": "http://stream-uk1.radioparadise.com",
+        "imageURL": "https://cdn-images.audioaddict.com/4/1/0/3/1/9/410319c9dd368ba5d3d0aea255b543f2.png?size=300x300",
+        "desc": "KVCU - Boulder, CO",
+        "location" : "Alternative, New York",
+        "listener" : "150 Listener",
+        "isPlay": false,
+        "longDesc": "Radio 1190 is the bomb."
+    },
+    {
+        "number": "ALT 98.0",
+        "name": "Mehefil",
+        "streamURL": "http://mehefil.no-ip.com/mehefil",
+        "imageURL": "https://cdn-images.audioaddict.com/2/1/2/6/9/0/212690fe17ba9a8c7cfbf432d0eaac53.png?size=300x300",
+        "desc": "KVCU - Boulder, CO",
+        "location" : "Alternative, New York",
+        "listener" : "90 Listener",
+        "isPlay": false,
+        "longDesc": "Radio 1190 is the bomb."
+    },
+    {
+        "number": "ALT 98.0",
+        "name": "Radio Paradise",
+        "streamURL": "http://stream-uk1.radioparadise.com",
+        "imageURL": "https://cdn-images.audioaddict.com/c/d/1/1/e/9/cd11e96692b5a9480123ff96159b0f7c.png?size=300x300",
+        "desc": "KVCU - Boulder, CO",
+        "location" : "Alternative, New York",
+        "listener" : "105 Listener",
+        "isPlay": false,
+        "longDesc": "Radio 1190 is the bomb."
+    },
+    {
+        "number": "ALT 98.0",
+        "name": "Planet Rock",
+        "streamURL": "http://stream-uk1.radioparadise.com",
+        "imageURL": "https://cdn-images.audioaddict.com/3/2/9/d/b/c/329dbc2edc01d948f08f08b27e08dae9.jpg?size=300x300",
+        "desc": "KVCU - Boulder, CO",
+        "location" : "Alternative, New York",
+        "listener" : "110 Listener",
+        "isPlay": false,
+        "longDesc": "Radio 1190 is the bomb."
+    }
+]
